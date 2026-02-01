@@ -53,3 +53,66 @@ docker-compose ps
 
 1.  在服务器上拉取最新代码：`git pull`
 2.  重新构建并重启：`docker-compose up -d --build`
+
+---
+
+## 📚 自定义路由列表
+
+以下是本项目新增的自定义路由：
+
+### 📱 社交与媒体 (Social & Media)
+
+- **AboutFB (Meta Newsroom)**
+    - 路由: `/aboutfb/news`
+    - 描述: Meta Newsroom 最新文章。
+- **Facebook Developers**
+    - 路由: `/facebookdevelopers/blog`
+    - 描述: Facebook 开发者博客文章。
+- **Telegram**
+    - 路由: `/telegramorg/blog`
+    - 描述: Telegram 官方博客文章。
+- **Kwai (快手)**
+    - 路由: `/kwai/newsroom`
+    - 描述: Kwai Newsroom 最新动态。
+- **YouTube Blog**
+    - 路由: `/youtubeblog/news-and-events`
+    - 描述: YouTube 官方博客新闻与活动。
+
+### 🤖 科技与 AI (Tech & AI)
+
+- **MIT News**
+    - 路由: `/mit/news/topic/artificial-intelligence2`
+    - 描述: MIT 新闻中的人工智能相关话题。
+- **AIbase**
+    - 路由: `/aibase/news-site`
+    - 描述: AIbase 资讯列表。
+- **AIHot (AI今日热榜)**
+    - 路由: `/aihot/today`
+    - 描述: AI今日热榜聚合的热点资讯。
+- **TLDR**
+    - 路由: `/tldr/tech`
+    - 描述: TLDR Tech 技术简报。
+- **Semrush**
+    - 路由: `/semrush/news/releases/product-news`
+    - 描述: Semrush 产品发布新闻。
+- **Seach Engine Roundtable**
+    - 路由: `/seroundtable`
+    - 描述: 搜索引擎这一领域的最新讨论。
+- **TestingCatalog**
+    - 路由: `/testingcatalog`
+    - 描述: 测试类产品目录更新。
+
+### 🎮 娱乐与游戏 (Entertainment & Games)
+
+- **Jay Is Games**
+    - 路由: `/jayisgames`
+    - 描述: Jay Is Games 最新游戏文章。
+- **PocketGamer.biz**
+    - 路由: `/pocketgamer`
+    - 描述: PocketGamer.biz 行业新闻。
+- **Musically**
+    - 路由: `/musically`
+    - 描述: Musically 最新消息。
+- **Music Business Worldwide**
+    - 路由: `/musicbusinessworldwide`
+    - 描述: 全球音乐产业新闻。
