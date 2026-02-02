@@ -30,7 +30,7 @@ cd rsshub
 
 ```bash
 # 这一步会自动读取本地代码进行构建
-docker-compose up -d --build
+docker compose up -d --build
 ```
 
 - `-d`: 后台运行
