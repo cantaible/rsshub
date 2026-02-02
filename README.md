@@ -63,70 +63,70 @@ docker-compose ps
 ### 📱 社交与媒体 (Social & Media)
 
 - **AboutFB (Meta Newsroom)**
-    - 路由: http://150.158.113.98:1200/aboutfb/news
+    - 路由: http://43.134.96.131:1200/aboutfb/news
     - 描述: Meta Newsroom 最新文章。
 - **Facebook Developers**
-    - 路由: http://150.158.113.98:1200/facebookdevelopers/blog
+    - 路由: http://43.134.96.131:1200/facebookdevelopers/blog
     - 描述: Facebook 开发者博客文章。
 - **Telegram**
-    - 路由: http://150.158.113.98:1200/telegramorg/blog
+    - 路由: http://43.134.96.131:1200/telegramorg/blog
     - 描述: Telegram 官方博客文章。
 - **Kwai (快手)**
-    - 路由: http://150.158.113.98:1200/kwai/newsroom
+    - 路由: http://43.134.96.131:1200/kwai/newsroom
     - 描述: Kwai Newsroom 最新动态。
 - **YouTube Blog**
-    - 路由: http://150.158.113.98:1200/youtubeblog/news-and-events
+    - 路由: http://43.134.96.131:1200/youtubeblog/news-and-events
     - 描述: YouTube 官方博客新闻与活动。
 
 ### 🤖 科技与 AI (Tech & AI)
 
 - **MIT News**
-    - 路由: http://150.158.113.98:1200/mit/news/topic/artificial-intelligence2
+    - 路由: http://43.134.96.131:1200/mit/news/topic/artificial-intelligence2
     - 描述: MIT 新闻中的人工智能相关话题。
 - **AIbase**
-    - 路由: http://150.158.113.98:1200/aibase/news-site
+    - 路由: http://43.134.96.131:1200/aibase/news-site
     - 描述: AIbase 资讯列表。
 - **AIHot (AI今日热榜)**
-    - 路由: http://150.158.113.98:1200/aihot/today
+    - 路由: http://43.134.96.131:1200/aihot/today
     - 描述: AI今日热榜聚合的热点资讯。
 - **TLDR**
-    - 路由: http://150.158.113.98:1200/tldr/tech
+    - 路由: http://43.134.96.131:1200/tldr/tech
     - 描述: TLDR Tech 技术简报。
 - **Semrush**
-    - 路由: http://150.158.113.98:1200/semrush/news/releases/product-news
+    - 路由: http://43.134.96.131:1200/semrush/news/releases/product-news
     - 描述: Semrush 产品发布新闻。
 - **Seach Engine Roundtable**
-    - 路由: http://150.158.113.98:1200/seroundtable
+    - 路由: http://43.134.96.131:1200/seroundtable
     - 描述: 搜索引擎这一领域的最新讨论。
 - **TestingCatalog**
-    - 路由: http://150.158.113.98:1200/testingcatalog
+    - 路由: http://43.134.96.131:1200/testingcatalog
     - 描述: 测试类产品目录更新。
 - **QbitAI (量子位)**
-    - 路由: http://150.158.113.98:1200/qbitai/category/资讯
+    - 路由: http://43.134.96.131:1200/qbitai/category/资讯
     - 描述: 量子位 - 最新资讯。
-    - 路由: http://150.158.113.98:1200/qbitai/category/数码
+    - 路由: http://43.134.96.131:1200/qbitai/category/数码
     - 描述: 量子位 - 数码科技。
-    - 路由: http://150.158.113.98:1200/qbitai/category/智能车
+    - 路由: http://43.134.96.131:1200/qbitai/category/智能车
     - 描述: 量子位 - 智能车。
-    - 路由: http://150.158.113.98:1200/qbitai/category/智库
+    - 路由: http://43.134.96.131:1200/qbitai/category/智库
     - 描述: 量子位 - 智库。
-    - 路由: http://150.158.113.98:1200/qbitai/tag/大语言模型
+    - 路由: http://43.134.96.131:1200/qbitai/tag/大语言模型
     - 描述: 量子位 - 大语言模型标签。
 - **Aiera (新智元)**
-    - 路由: http://150.158.113.98:1200/aiera
+    - 路由: http://43.134.96.131:1200/aiera
     - 描述: 新智元最新文章。
 
 ### 🎮 娱乐与游戏 (Entertainment & Games)
 
 - **Jay Is Games**
-    - 路由: http://150.158.113.98:1200/jayisgames
+    - 路由: http://43.134.96.131:1200/jayisgames
     - 描述: Jay Is Games 最新游戏文章。
 - **PocketGamer.biz**
-    - 路由: http://150.158.113.98:1200/pocketgamer
+    - 路由: http://43.134.96.131:1200/pocketgamer
     - 描述: PocketGamer.biz 行业新闻。
 - **Musically**
-    - 路由: http://150.158.113.98:1200/musically
+    - 路由: http://43.134.96.131:1200/musically
     - 描述: Musically 最新消息。
 - **Music Business Worldwide**
-    - 路由: http://150.158.113.98:1200/musicbusinessworldwide
+    - 路由: http://43.134.96.131:1200/musicbusinessworldwide
     - 描述: 全球音乐产业新闻。
