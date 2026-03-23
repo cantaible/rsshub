@@ -40294,6 +40294,14 @@
         "target": "/scmp/:category_id"
       },
       {
+        "title": "Twitter X",
+        "docs": "https://docs.rsshub.app/routes/traditional-media",
+        "source": [
+          "/topics/twitter-x"
+        ],
+        "target": "/scmp/topic/twitter-x"
+      },
+      {
         "title": "Topics",
         "docs": "https://docs.rsshub.app/routes/traditional-media",
         "source": [
@@ -48747,6 +48755,15 @@
   "blog.youtube": {
     "_name": "YouTube Blog",
     ".": [
+      {
+        "title": "Latest",
+        "docs": "https://docs.rsshub.app/routes/new-media",
+        "source": [
+          "/",
+          "/feed/"
+        ],
+        "target": "/youtubeblog/feed"
+      },
       {
         "title": "News and Events",
         "docs": "https://docs.rsshub.app/routes/new-media",

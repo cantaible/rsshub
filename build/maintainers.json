@@ -7364,6 +7364,9 @@
   "/scmp/:category_id": [
     "proletarius101"
   ],
+  "/scmp/topic/twitter-x": [
+    "TonyRL"
+  ],
   "/scmp/topics/:topic": [
     "TonyRL"
   ],
@@ -9579,6 +9582,9 @@
   "/youtube/user/:username/:routeParams?": [
     "DIYgod",
     "pseudoyu"
+  ],
+  "/youtubeblog/feed": [
+    "cantaible"
   ],
   "/youtubeblog/news-and-events": [
     "cantaible"

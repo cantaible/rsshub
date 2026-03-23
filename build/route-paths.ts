@@ -2407,6 +2407,7 @@ export type RoutePath =
   | `/scitechvista/`
   | `/scmp/:category_id`
   | `/scmp/coronavirus`
+  | `/scmp/topic/twitter-x`
   | `/scmp/topics/:topic`
   | `/scnu/cs/match`
   | `/scnu/jw`
@@ -3117,6 +3118,7 @@ export type RoutePath =
   | `/youtube/playlist/:id/:embed?`
   | `/youtube/subscriptions/:embed?`
   | `/youtube/user/:username/:routeParams?`
+  | `/youtubeblog/feed`
   | `/youtubeblog/news-and-events`
   | `/youzhiyouxing/materials/:id?`
   | `/yuanliao/:tag?`
