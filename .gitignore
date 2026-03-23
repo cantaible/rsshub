@@ -18,6 +18,8 @@
 
 *.swp
 *.iml
+*.pyc
+__pycache__/
 
 app-minimal/
 assets/build/
