@@ -144,7 +144,7 @@
     },
     "devDependencies": {
         "@babel/preset-env": "7.28.6",
-        "@babel/preset-typescript": "7.28.5",
+        "@babel/preset-typescript": "8.0.1",
         "@bbob/types": "4.3.1",
         "@cloudflare/containers": "0.1.0",
         "@cloudflare/puppeteer": "1.0.5",
